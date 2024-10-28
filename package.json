@@ -1,0 +1,9 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Nenhum teste definido\" && exit 0",
+    "build": "echo \"Build concluído\" && exit 0"
+  },
+  "dependencies": {}
+}
